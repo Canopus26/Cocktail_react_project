@@ -9,3 +9,6 @@
 "build": "CI= react-scripts build",
 
 ```
+link to cocktail search website:
+
+https://react-project-cocktails-search.netlify.app
