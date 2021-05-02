@@ -11,4 +11,4 @@
 ```
 link to cocktail search website:
 
-https://react-project-cocktails-search.netlify.app
+[cocktail-project]( https://react-project-cocktails-search.netlify.app/)
